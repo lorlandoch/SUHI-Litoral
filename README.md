@@ -1,6 +1,8 @@
 # SUHI-Litoral
 Temperatura de las superficies urbanas a lo largo del Río Uruguay (por pixel Landsat)
 
+Los polígonos de las ciudades fueron extraídos de: https://nominatim.openstreetmap.org/ui/search.html (polygons)
+
 Calculated on LANDSAT collection (2017-2023) using the algorithm generously published by:
 Ermida, S.L., Soares, P., Mantas, V., Göttsche, F.-M., Trigo, I.F., 2020. 
     Google Earth Engine open-source code for Land Surface Temperature estimation from the Landsat series.
